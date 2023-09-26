@@ -1,0 +1,28 @@
+Excited to share my latest data analytics project, focused on the diabetes patients dataset - Pima Indian heritage. It's origins trace back to the National Institute of Diabetes and Digestive and Kidney Diseases, aiming to predict a patient's likelihood of having diabetes from a diagnostic perspective.
+
+My goal was to analyze this dataset and capture some patterns and correlations between the medical variables.
+
+We can find several variables, some of them are independent (several medical predictor variables) and only one target dependent variable (Outcome) which shows the patients status, whether they have diabetes or not.
+
+
+visualizing the presented tiles:
+
+- The cards show the total number of diabetes patients and non-diabetes patients and the percent as well.
+
+- A small slicer to the left is used to select which age group do we need to analyze or focus on.
+
+- The column chart shows the average of Body Mass Index (BMI) by status - Diabetes or Non-Diabetes.
+
+- The bar chart shows the Average of Diabetes Pedigree Function (DPF) by age groups.
+
+- The clustered column chart shows the average of Blood Pressure by age group and status - Diabetes or Non-Diabetes.
+
+- The pie chart shows the count of female individuals by using the glucose categories - Normal, Prediabetes and Diabetes.
+
+- The two below cards show the relation between insulin and pregnancies, insulin and skin thickness, and both represents a positive relationship.
+
+- The last column chart shows the average of Diabetes Pedigree Function (DPF) by status - Diabetes or Non-Diabetes.
+
+
+
+As a result of my data-driven approach, I have tried to assist the healthcare professionals to provide a prediction in the future. The dataset has about 35% entries with a likelihood of getting diabetes.
